@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/6686a53d0c9afb1268b34d3c
+Content-Type: application/json
+
+{
+    "title": "Super Useful CSS Resources",
+    "author": "Alicia Sykes",
+    "url": "https://dev.to/lissy93/super-useful-css-resources-1ba3",
+    "likes": 1739
+}
